@@ -1,6 +1,6 @@
 Dépendances :
     
-    pip install numpy scipy umap-learn[plot] hdbscan numba scikit-learn
+    pip install numpy scipy umap-learn[plot] hdbscan numba scikit-learn opencv-python
 
 Les données CSIR et le script principal main.py doivent être situés au même niveau que radarpkg:
 
