@@ -1,7 +1,0 @@
-README.md
-setup.py
-radar.egg-info/PKG-INFO
-radar.egg-info/SOURCES.txt
-radar.egg-info/dependency_links.txt
-radar.egg-info/requires.txt
-radar.egg-info/top_level.txt
