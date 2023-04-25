@@ -9,5 +9,5 @@ setup(
     author_email='clement.bernard@protonmail.com',
     license='MIT',
     packages=['radarpkg2'],
-    install_requires=['numpy']
+    install_requires=['numpy', 'scipy', 'umap-learn[plot]', 'hdbscan', 'numba', 'scikit-learn', 'opencv-python']
 )
